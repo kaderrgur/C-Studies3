@@ -1,0 +1,16 @@
+C:\Users\kader\Desktop\PROJELER\project 9\project 9\obj\x86\Debug\project_9.Form1.resources
+C:\Users\kader\Desktop\PROJELER\project 9\project 9\obj\x86\Debug\project_9.Properties.Resources.resources
+C:\Users\kader\Desktop\PROJELER\project 9\project 9\obj\x86\Debug\project 9.csproj.GenerateResource.Cache
+C:\Users\kader\Desktop\PROJELER\project 9\project 9\bin\Debug\project 9.exe
+C:\Users\kader\Desktop\PROJELER\project 9\project 9\bin\Debug\project 9.pdb
+C:\Users\kader\Desktop\PROJELER\project 9\project 9\obj\x86\Debug\project 9.exe
+C:\Users\kader\Desktop\PROJELER\project 9\project 9\obj\x86\Debug\project 9.pdb
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 9\project 9\bin\Debug\project 9.exe
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 9\project 9\bin\Debug\project 9.pdb
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 9\project 9\obj\x86\Debug\project 9.csprojAssemblyReference.cache
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 9\project 9\obj\x86\Debug\project_9.Form1.resources
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 9\project 9\obj\x86\Debug\project_9.Properties.Resources.resources
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 9\project 9\obj\x86\Debug\project 9.csproj.GenerateResource.cache
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 9\project 9\obj\x86\Debug\project 9.csproj.CoreCompileInputs.cache
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 9\project 9\obj\x86\Debug\project 9.exe
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 9\project 9\obj\x86\Debug\project 9.pdb
